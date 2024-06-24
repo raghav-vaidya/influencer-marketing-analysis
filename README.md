@@ -1,6 +1,6 @@
 # Influencer Marketing Analysis
 
-The learning objectives for this assignment are to learn ways to
+The learning objectives for this assignment are to learn ways to\
 (i)	Detect social “influencers” using network analytics
 (ii)	Quantify the financial value of influence
 (iii) Identify and leverage influencers 
