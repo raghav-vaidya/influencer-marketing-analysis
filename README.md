@@ -1,1 +1,1 @@
-# influencer-marketing-analysis
+# predict-who-is-more-influential-in-a-social-network
